@@ -7,7 +7,7 @@
 -----------------
 
 
-![Screenshot_1595947464](https://user-images.githubusercontent.com/35298963/89778976-644bb480-db49-11ea-9897-ecb344b3c5b1.png){: width="200"}
+![Screenshot_1595947464](https://user-images.githubusercontent.com/35298963/89778976-644bb480-db49-11ea-9897-ecb344b3c5b1.png){: width="300" height="300")
 
 
 
