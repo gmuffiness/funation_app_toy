@@ -4,7 +4,6 @@
 기부를 재미있게! 소액기부 플랫폼 funation's application
 
 # Screenshots
------------------
 
-<img src="https://user-images.githubusercontent.com/35298963/89778976-644bb480-db49-11ea-9897-ecb344b3c5b1.png"  width="100" height="200">
+<img src="https://user-images.githubusercontent.com/35298963/89778976-644bb480-db49-11ea-9897-ecb344b3c5b1.png"  width="200" height="400">
 
