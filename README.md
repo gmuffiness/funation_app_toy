@@ -5,5 +5,5 @@
 
 # Screenshots
 
-<img src="https://user-images.githubusercontent.com/35298963/89778976-644bb480-db49-11ea-9897-ecb344b3c5b1.png"  width="250" height="400">
+<img src="https://user-images.githubusercontent.com/35298963/89778976-644bb480-db49-11ea-9897-ecb344b3c5b1.png"  width="250" height="450">
 
